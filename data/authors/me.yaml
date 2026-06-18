@@ -64,20 +64,7 @@ education:
       text: ""
       url: "https://repositorio.ufsc.br/handle/123456789/247733"
       icon: ""
-experience:
-  - role: "Senior AI Research Scientist"
-    org: "Meta AI"
-    start: "2020-01-01"
-    summary: "Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.\n"
-    button:
-      text: "View portfolio"
-      url: "/"
-      icon: "hero/arrow-down-tray"
-  - role: "AI Research Intern"
-    org: "OpenAI"
-    start: "2019-06-01"
-    end: "2019-12-31"
-    summary: "Worked on GPT-3 scaling. Co-authored paper on prompt engineering.\n"
+experience: []
 skills:
   - name: "Technical Skills"
     items:
@@ -96,12 +83,24 @@ skills:
       - label: "Grant Proposals"
         level: 4
 languages:
-  - name: "English"
+  - name: "Português"
     level: 5
     label: "Native"
-  - name: "Spanish"
-    level: 4
+  - name: "English"
+    level: 5
     label: "Fluent"
+  - name: "Italiano"
+    level: 3
+    label: "B1"
+  - name: "Français"
+    level: 2
+    label: "Basic"
+  - name: "Español"
+    level: 1
+    label: "A1"
+  - name: "LIBRAS"
+    level: 2
+    label: "Basic"
 awards:
   - title: "Best Paper Award"
     awarder: "NeurIPS"
